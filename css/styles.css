@@ -1,0 +1,30 @@
+body {
+    font-family: system ui;
+    font-size: 16px;
+    font-weight: normal;
+    background-color: teal;
+  }
+  h1 {
+    text-shadow: 2px 2px 3px white;
+  }
+  h2 {
+    text-shadow: 4px 4px 4px white;
+  }
+  h3 {
+   Font-size: 22px;
+   text-shadow: 2px 2px 3px orange;
+    border-style: groove;
+    border-color: pink;
+    border-radius: 50px 80px;
+    padding: 5px 5px 5px 5px;
+  }
+  h4 {
+    font-size: 20px;
+    letter-spacing: .18em;
+    word-spacing: .15em;
+    text-shadow: 2px 2px 2px orange;
+    border-style: groove;
+    border-color: pink;
+    border-radius: 80px 50px;
+    padding: 5px 15px 10px 15px;
+  }
